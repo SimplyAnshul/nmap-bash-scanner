@@ -26,3 +26,8 @@ nmap-bash-scanner/
 │ └── [target]_scan.txt
 └── LICENSE
 
+---
+
+![GitHub last commit](https://img.shields.io/github/last-commit/SimplyAnshul/nmap-bash-scanner)
+![GitHub repo size](https://img.shields.io/github/repo-size/SimplyAnshul/nmap-bash-scanner)
+![GitHub license](https://img.shields.io/github/license/SimplyAnshul/nmap-bash-scanner)
